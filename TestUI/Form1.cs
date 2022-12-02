@@ -45,6 +45,8 @@ namespace TestUI
 
         private void button2_Click(object sender, EventArgs e)
         {
+            Form2 g1 = new Form2();
+            g1.Show();
         }
     }
 }
