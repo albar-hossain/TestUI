@@ -29,7 +29,8 @@ namespace TestUI
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            jerky j1 = new jerky();
+            j1.Show();
         }
 
         private void label1_Click(object sender, EventArgs e)
